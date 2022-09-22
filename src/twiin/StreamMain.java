@@ -14,6 +14,4 @@ public class StreamMain {
         stream.forEach(System.out::println);
 
     }
-
-
 }
